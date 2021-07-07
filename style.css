@@ -51,3 +51,47 @@ section{
     color:red;
     size: bold;
 }
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 38px;
+    color: white;
+    font-weight:700;
+    border-radius: 25px;
+}
+.my{
+    font-size: 70px;
+}
+.my{
+    font-size: 70px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.my{
+   position: absolute;
+   top: 1550px;
+   color: violet;
+   padding-left: 180px;
+
+}
+.p{
+    position: absolute;
+   top: 1550px;
+   color: violet;
+   padding-left: 400px;
+}
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+.box{
+    width: 30%;
+    background-color: gray;
+}
+.images img{
+    width: 100%;
+}
+.title{
+    text-align: center;
+    margin-bottom: 30px;
+}

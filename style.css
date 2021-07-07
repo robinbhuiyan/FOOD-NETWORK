@@ -80,18 +80,4 @@ section{
    color: violet;
    padding-left: 400px;
 }
-*{
-    margin: 0px ;
-    padding: 0px;
-}
-.box{
-    width: 30%;
-    background-color: gray;
-}
-.images img{
-    width: 100%;
-}
-.title{
-    text-align: center;
-    margin-bottom: 30px;
-}
+
